@@ -1,9 +1,9 @@
-Name: Reshma Suryawanshi
+Name: Reshma Rahul Suryawanshi
 Company: CODTECH IT SOLUTIONS
-ID:
+ID:CT08DS87
 Domain:Data Analytics
 Duration: Nov to Dec 2024
-Mentor: 
+
 
 Diwali Sales Analysis
 

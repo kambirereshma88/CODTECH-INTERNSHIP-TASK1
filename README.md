@@ -50,9 +50,7 @@ Profit Maximization: A more strategic approach to pricing and discounting will b
 
 
 
-
-
-
+![CODTECH task 1](https://github.com/user-attachments/assets/82e798ad-3a2c-4f3d-9d3d-0283472241c7)
 
 
 
